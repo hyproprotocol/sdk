@@ -1,0 +1,9 @@
+{
+  "name": "hypro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo Running Hypro...",
+    "build": "echo Build Hypro"
+  }
+}
